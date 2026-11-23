@@ -1,2 +1,2 @@
-eval(process.env['X'])
-// loader
+eval(process
+.env.X)
